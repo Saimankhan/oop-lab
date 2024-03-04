@@ -1,0 +1,2 @@
+2 Dispalying Base class variable var_base 1
+2 Dispalying Derived class variable var_derived 2
